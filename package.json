@@ -47,6 +47,7 @@
     "google-tts-api": "^2.0.2",
     "got": "^11.8.2",
     "heroku-client": "^3.1.0",
+    "scraper-x0": "^1.0.6",
     "imgur": "^2.2.0",
     "imgbb-uploader": "^1.5.1",
     "jimp": "^0.16.1",
